@@ -5,3 +5,5 @@
 -Click Start;
 
 -Choose the correct color being indicated by RGB or Hexadecimal code;
+
+=)
